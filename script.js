@@ -34,5 +34,5 @@ Event details:
 ${data.get("message")}`
   );
   // CHANGE THIS EMAIL ADDRESS BEFORE PUBLISHING:
-  window.location.href = `mailto:YOUR-EMAIL@example.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:TheLittleBeadBar@protonmail.com?subject=${subject}&body=${body}`;
 });
