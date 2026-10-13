@@ -1,16 +1,19 @@
-## Hi there 👋
+# The Little Bead Bar Website
 
-<!--
-**TheLittleBeadBar/TheLittleBeadBar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A mobile-friendly one-page website for The Little Bead Bar.
 
-Here are some ideas to get you started:
+## Files
+- index.html — website structure/content
+- styles.css — design and responsive layout
+- script.js — mobile menu, year, and inquiry form
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Before publishing
+1. Open `script.js`.
+2. Replace `YOUR-EMAIL@example.com` with your actual business email.
+3. Replace or supplement the placeholder gallery cards with real event photos.
+4. Review the pricing and service area.
+
+## Publishing
+You can upload these files to a static host such as GitHub Pages, Netlify, Vercel, or another web host. No server is required for the current version.
+
+The inquiry form currently opens the visitor's email app rather than storing submissions online.
